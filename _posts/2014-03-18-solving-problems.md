@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Learning group 18.03.2014"
+title:  Learning group 18.03.2014
 date:   2014-03-19 20:51:26
 published: true
 categories: materials
