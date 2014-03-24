@@ -14,9 +14,9 @@ a diagram.
 
 How to brew a cup of coffee humans & computers edition
 
-- [Slides - Brewing a coffee](/files/brew_a_coffee.pdf)
+- [Slides - Brewing a coffee]({{ site.baseurl }}/files/brew_a_coffee.pdf)
 
 Fridge checker
 
-- [Slides - Kuehlschrankkontrolle](/files/kuehlschrank_kontrolle.pdf)
-- [fridge.rb](/files/fridge.rb)
+- [Slides - Kuehlschrankkontrolle]({{ site.baseurl }}/files/kuehlschrank_kontrolle.pdf)
+- [fridge.rb]({{ site.baseurl }}/files/fridge.rb)
