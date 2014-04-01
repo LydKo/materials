@@ -1,4 +1,5 @@
 name: Rubyseeds
 markdown: redcarpet
 pygments: true
+permalink: /:month-:day-:year/:title.html
 baseurl: "/materials"
