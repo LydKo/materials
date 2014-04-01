@@ -20,4 +20,4 @@ How to brew a cup of coffee humans & computers edition
 Fridge checker
 
 - [Slides - Kuehlschrankkontrolle]({{ site.baseurl }}/files/kuehlschrank_kontrolle.pdf)
-- [fridge.rb]({{ site.baseurl }}/files/fridge.rb)
+- [fridge.rb](https://github.com/rubyseeds/materials/blob/gh-pages/files/fridge.rb)
