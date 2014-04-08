@@ -7,7 +7,7 @@ title: Rubyseeds homework
 
 Do the Code academy exercise #11 Hashes and Symbols
 
-http://www.codecademy.com/de/courses/ruby-beginner-en-Qn7Qw/0/1?curriculum_id=5059f8619189a5000201fbcb
+[Exercise](http://www.codecademy.com/de/courses/ruby-beginner-en-Qn7Qw/0/1?curriculum_id=5059f8619189a5000201fbcb)
 
 ## Homework 01.04.2014
 
