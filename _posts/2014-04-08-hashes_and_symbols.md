@@ -17,3 +17,24 @@ discussed some possible solutions.
 # Recap
 
 * Hashes ...
+
+# Exercise
+Create a hash which contains information about you:
+- first name
+- last name
+- email address
+- address
+  - street
+  - zip code
+  - city
+
+
+Then print out the values for all keys
+
+- first name
+- last name
+- email address
+- street
+- zip code
+- city
+
