@@ -56,3 +56,8 @@ The user should be able to select one item of the menu.
 3. When a number is selected which is not on the list, print an error message:
 
     `Dude, this burger was not on the list`
+
+
+# Example code
+
+[Case statement example code](https://github.com/rubyseeds/materials/blob/gh-pages/files/case.rb)
