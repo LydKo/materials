@@ -15,11 +15,20 @@ Symbols](http://www.codecademy.com/de/courses/ruby-beginner-en-Qn7Qw/0/1?curricu
 
 Create a program which prints out this menu:
 
-- Ghetto Burger. Plain burger.  9,50€
-- Ghetto Deluxe. American cheese.  10,50€
-- The Dumb Texan. With a fried Egg.  10,50€
-- The Jack. Blue Cheese dressing.  11,50€
-- The Flaming Roger. Swiss Cheese.  11,50€
+1. Ghetto Burger. Plain burger.  9,50€
+2. Ghetto Deluxe. American cheese.  10,50€
+3. The Dumb Texan. With a fried Egg.  10,50€
+4. The Jack. Blue Cheese dressing.  11,50€
+5. The Flaming Roger. Swiss Cheese.  11,50€
 
-The user should be able to select one item of the menu. Ask for a
-selection and print out the selected burger
+## Tasks:
+
+The user should be able to select one item of the menu.
+
+1. Ask for the user for a selection
+
+    `Select a burger >>`
+
+2. Print out the selected burger
+
+    `Selected burger: Ghetto Burger. Plain burger.  9,50€`
