@@ -19,14 +19,14 @@ When we did the Hashes recap, we discussed two different ways of accessing value
 `fetch` returns the value behind the key but throws an error in case the key is not present in the hash.
 It also can return a default value when the key is not defined:
 
-```Ruby
+```ruby
     movies.fetch(:title, 'Unknown title')
 ```
 Here 'unknown movie' is returned when the movie does not have a title.
 
 Hashes can return a general default value for keys they don't know:
 
-```Ruby
+```ruby
     movie = Hash.new("Dude, this key does not exist")
     movie[:title] # => "Dude, this key does not exist"
     movie[:laenge] # => "Dude, this key does not exist"
@@ -63,8 +63,6 @@ The user should be able to select one item of the menu.
 3. When a number is selected which is not on the list, print an error message:
 
     `Dude, this burger was not on the list`
-
-
 
 # Example code
 
