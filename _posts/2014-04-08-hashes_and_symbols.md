@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Learning group 08.04.2014 - Hashes and Symbols
-date: 2014-04-01 21:22:00
+date: 2014-04-08 21:22:00
 published: true
 categories: materials
 ---
