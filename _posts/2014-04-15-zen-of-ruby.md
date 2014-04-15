@@ -46,10 +46,13 @@ Create a program which prints out this menu:
 
 The user should be able to select one item of the menu.
 
-1. Ask for the user for a selection
+1. Ask for the user for a selection (number)
 
     `Select a burger >>`
 
 2. Print out the selected burger
 
     `Selected burger: Ghetto Burger. Plain burger.  9,50€`
+3. When a number is selected which is not on the list, print an error message:
+
+    `Dude, this burger was not on the list`
