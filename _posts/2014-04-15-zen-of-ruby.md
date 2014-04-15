@@ -32,6 +32,13 @@ Hashes can return a general default value for keys they don't know:
     movie[:laenge] # => "Dude, this key does not exist"
 ```
 
+**todo: explain case statement**
+
+# Our experiments
+
+* [Hash - Sendung](https://github.com/rubyseeds/materials/blob/gh-pages/files/hashes_sendungen.rb)
+* [Case - Movie minimum age](https://github.com/rubyseeds/materials/blob/gh-pages/files/case_age_movies.rb)
+
 # Exercises
 
 Create a program which prints out this menu:
@@ -56,6 +63,7 @@ The user should be able to select one item of the menu.
 3. When a number is selected which is not on the list, print an error message:
 
     `Dude, this burger was not on the list`
+
 
 
 # Example code
