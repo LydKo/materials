@@ -3,6 +3,12 @@ layout: default
 title: Rubyseeds homework
 ---
 
+## Homework 23.04.2014
+
+Do Code Academy #15 - Block, Procs and Lambdas
+
+[Exercice](http://www.codecademy.com/de/courses/ruby-beginner-en-L3ZCI/0/1?curriculum_id=5059f8619189a5000201fbcb)
+
 ## Homework 11.04.2014
 
 Do the Code academy exercise #13 The Zen Of Ruby
