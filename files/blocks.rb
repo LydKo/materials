@@ -31,3 +31,24 @@ c = math(3, 5) do |a, b|
 end
 
 puts c
+
+b = [1,3,4]
+
+a = b.map do |x|
+  "Hallo du #{x}"
+end
+
+p a
+
+c = b.detect do |x|
+  x % 2 == 0
+end
+
+p c
+
+d = []
+b.each do |x|
+  d << "hallo du #{x}"
+end
+
+p d
