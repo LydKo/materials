@@ -24,4 +24,4 @@ The target audience for this podcast are beginners who want to learn more about 
 
 ### CRE
 CRE (formerly Chaosradio Express) is an interview podcast. Every episode is about a specific topic. Mainly there are one to two other guests.
-- [CRE](http://cre.fm/)]
+- [CRE](http://cre.fm/)
