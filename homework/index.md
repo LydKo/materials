@@ -3,6 +3,12 @@ layout: default
 title: Rubyseeds homework
 ---
 
+## Homework 06.05.2014
+
+Do Code Acadamy 'The Refactor Factory'
+
+[Exercise](http://www.codecademy.com/courses/ruby-beginner-en-Zjd2y/0/1?curriculum_id=5059f8619189a5000201fbcb)
+
 ## Homework 23.04.2014
 
 Do Code Academy #15 - Block, Procs and Lambdas
