@@ -43,11 +43,11 @@ Hashes can return a general default value for keys they don't know:
 
 Create a program which prints out this menu:
 
-1. Ghetto Burger. Plain burger.  9,50€
-2. Ghetto Deluxe. American cheese.  10,50€
-3. The Dumb Texan. With a fried Egg.  10,50€
-4. The Jack. Blue Cheese dressing.  11,50€
-5. The Flaming Roger. Swiss Cheese.  11,50€
+1. Ghetto Burger. Plain burger.  9,50 EUR
+2. Ghetto Deluxe. American cheese.  10,50 EUR
+3. The Dumb Texan. With a fried Egg.  10,50 EUR
+4. The Jack. Blue Cheese dressing.  11,50 EUR
+5. The Flaming Roger. Swiss Cheese.  11,50 EUR
 
 ## Tasks:
 
@@ -59,7 +59,7 @@ The user should be able to select one item of the menu.
 
 2. Print out the selected burger
 
-    `Selected burger: Ghetto Burger. Plain burger.  9,50€`
+    `Selected burger: Ghetto Burger. Plain burger.  9,50 EUR`
 3. When a number is selected which is not on the list, print an error message:
 
     `Dude, this burger was not on the list`
