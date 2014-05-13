@@ -5,6 +5,10 @@ title: Rubyseeds materials
 
 # Materials
 
+## Link to materials
+
+- [https://github.com/rubyseeds/materials/tree/gh-pages/files](https://github.com/rubyseeds/materials/tree/gh-pages/files)
+
 ## Websites
 
 This contains a list for all external materials we used so far:
